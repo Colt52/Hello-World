@@ -1,2 +1,3 @@
 # Hello-World
-I have two brothers, I like to play with my doggy.
+<head> Trinity </head>
+<p> We are the last of the human race. There are three of you. Pick your character and fight to the death. </p>
