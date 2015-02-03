@@ -1,3 +1,2 @@
-<head> Trinity </head>
+<head><b> Welcome to Trinity </b></head>
 
-  <title> Welcome to Trinity </title>
